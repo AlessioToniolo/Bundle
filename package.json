@@ -1,0 +1,22 @@
+{
+  "name": "bundle",
+  "version": "1.0.0",
+  "description": "Time saving through time boxing bu\u001b[D\u001b[saving bundl\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C bundeled up\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[S\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C, \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C Bundled Up",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlessioToniolo/Bundle.git"
+  },
+  "author": "Alessio Toniolo",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/AlessioToniolo/Bundle/issues"
+  },
+  "homepage": "https://github.com/AlessioToniolo/Bundle#readme",
+  "dependencies": {
+    "electron": "^8.2.5"
+  }
+}
