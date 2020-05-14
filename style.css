@@ -1,0 +1,12 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.header-seperation {
+  width: 100%;
+  background-color: #616160;
+  font-size: 50vh;
+  color: red;
+}
