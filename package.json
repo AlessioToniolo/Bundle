@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/AlessioToniolo/Bundle#readme",
   "dependencies": {
-    "electron": "^8.2.5"
+    "electron": "^11.5.0"
   }
 }
